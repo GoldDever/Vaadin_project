@@ -5,5 +5,3 @@ public class SomeClass {
     //agafhafhzfdh
 }
 
-//dhkmg;lkm;l
-//s;lk'lakmfh'
