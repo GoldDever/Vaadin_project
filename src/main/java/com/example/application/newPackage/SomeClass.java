@@ -1,6 +1,9 @@
 package com.example.application.newPackage;
 
 public class SomeClass {
-    //some changes
-    //agafhafhzfdh
+// changes to push into test from newBranch
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> newBranch
