@@ -19,3 +19,4 @@ webpack.generated.js
 
 additional.properties
 another.file
+docker-compose.yaml
